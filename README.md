@@ -1,1 +1,9 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+![Header image](github/readme_concept.jpg)
+
+Co trzeba zrobić? (lecimy od góry)
+
+- [ ] ?
+
+Co zostało zrobione?
+
+- [x] nic
