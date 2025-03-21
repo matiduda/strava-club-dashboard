@@ -11,7 +11,8 @@
     "format:check": "prettier --check .",
     "cleanup": "npm run cleanup:nm && npm run cleanup:next",
     "cleanup:next": "rm -rf .next",
-    "cleanup:nm": "rm -rf node_modules"
+    "cleanup:nm": "rm -rf node_modules",
+    "typecheck": "tsc --noEmit"
   },
   "dependencies": {
     "next": "latest",
