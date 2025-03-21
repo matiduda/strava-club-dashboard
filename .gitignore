@@ -40,3 +40,6 @@ yarn-error.log*
 # JetBrains (WebStorm, PyCharm, IntelliJ IDEA, PhpStorm, etc.)
 .idea/
 *.iml
+
+# Ignore TypeScript incremental build file
+tsconfig.tsbuildinfo
