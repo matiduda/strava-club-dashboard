@@ -1,0 +1,29 @@
+# Ignore dependencies and system files
+node_modules
+.next
+out
+
+# Ignore lock files (they should not be formatted)
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Ignore build and output directories
+dist
+build
+coverage
+
+# Ignore binary files and media assets
+*.min.js
+*.min.css
+*.svg
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+
+# Ignore IDE-specific files
+.vscode
+.idea
+.DS_Store
