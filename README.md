@@ -15,5 +15,18 @@
 
 ---
 
+## 📌 Wytyczne dotyczące korzystania z API Strava
+
+Aplikacja musi przestrzegać oficjalnych wytycznych
+
+**Kluczowe zasady:**
+
+- Obowiązkowy przycisk „Connect with Strava” – należy używać oficjalnej wersji, bez modyfikacji.
+- Logo „Powered by Strava” – musi być widoczne w aplikacji i materiałach promocyjnych.
+- Linkowanie do Strava – każda prezentowana aktywność powinna zawierać link „View on Strava”.
+- Zakaz sugerowania oficjalnej współpracy – aplikacja nie może wyglądać jak produkt Strava.
+
+Szczegóły i pełne wytyczne: [Strava API Guidelines](https://developers.strava.com/guidelines/)
+
 https://developers.strava.com/docs/reference/
 https://developers.strava.com/docs/authentication/
