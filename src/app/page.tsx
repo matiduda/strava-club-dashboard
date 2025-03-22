@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="flex flex-col items-center justify-center h-screen  ">
       <Image src={logo} alt="Team Wrona Logo" width={150} />
-      <h1 className="text-3xl font-bold">Dashboard for Strava Club</h1>
+      <h1 className="text-3xl font-bold">Panel dla Klubu Strava</h1>
       <p className="mt-2 text-gray-600">
         Aby korzystać z aplikacji i zobaczyć dane klubu, zaloguj się przez
         Strava.
