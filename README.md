@@ -1,12 +1,17 @@
 ![Header image](github/readme_concept.jpg)
 
-Co trzeba zrobić? (lecimy od góry)
+## 📋 Zadania
 
-- [ ] ?
+### 🛠 Do zrobienia:
 
-Co zostało zrobione?
+- [ ] Usunąć ciemne tło z logo
+- [ ] Dodać obsługę logowania poprzez stravę
+- [ ] Dodać stopkę z informacją "Powered by Strava"
 
-- [x] nic
+### ✅ Zrobione:
+
+- [x] Komponent z przyciskiem do logowania poprzez Strave
+- [x] Strona główna zawierająca jakieś informacje i przycisk do logowania
 
 ---
 
