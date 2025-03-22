@@ -28,5 +28,8 @@ Aplikacja musi przestrzegać oficjalnych wytycznych
 
 Szczegóły i pełne wytyczne: [Strava API Guidelines](https://developers.strava.com/guidelines/)
 
+## 🔗 Strava API
+
 https://developers.strava.com/docs/reference/
+
 https://developers.strava.com/docs/authentication/
